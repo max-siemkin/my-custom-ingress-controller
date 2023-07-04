@@ -1,0 +1,5 @@
+.idea/
+.vscode/
+
+/my-custom-ingress-controller
+/test.*
